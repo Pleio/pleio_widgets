@@ -1,0 +1,15 @@
+{
+	"name": "pleio/pleio_widgets",
+	"description": "Various widgets for Pleio",
+	"type": "elgg-plugin",
+	"keywords": ["elgg", "plugin", "widgets"],
+	"license": "GPL-2.0",
+	"support": {
+		"source": "https://github.com/pleio/pleio_widgets",
+		"issues": "https://github.com/pleio/pleio_widgets/issues"
+	},
+	"require": {
+		"composer/installers": "^1.0.8",
+		"php": ">=5.3"
+	}
+}
